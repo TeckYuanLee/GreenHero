@@ -8,6 +8,6 @@ https://user-images.githubusercontent.com/8788481/140857795-660b5eac-1108-4562-9
 
 # Watch our 1-minute short video:
 
-https://youtu.be/FoFQak27hQs
+[Watch our demo video here](https://youtu.be/FoFQak27hQs)
 
 # Watch our Finals Pitching Live
