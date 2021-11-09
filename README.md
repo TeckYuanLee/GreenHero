@@ -10,7 +10,7 @@ Our current competitors are Recircle and Riiicycle which have basic features lik
 
 For this to happen we are utilizing Non-Fungible Token (NFT) of the Blockchain Technology to create a unique identity that records every users' milestone. We are also using Flutter to develop our app prototype. We currently have a working prototype, a business plan with a clear way forward, and a team who shares the same vision for the project. We are looking for grants & partnerships to fund our initial operation and granting us a status recognition. 
 
-That's it, if you're interested to learn more about our project, be sure to check out our pitch deck, thank you.
+That's it, if you're interested to learn more about our project, be sure to check out our [pitch deck](https://github.com/TeckYuanLee/GreenHero/blob/main/SDG11_GreenHero_GreenHero.pdf), thank you.
 
 # Download our GreenHero Prototype App:
 
