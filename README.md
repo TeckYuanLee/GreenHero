@@ -1,5 +1,7 @@
 # GreenHero - CodeathonX (Second Runner-up)
 
+![Thank_1](https://user-images.githubusercontent.com/8788481/140861770-f7270958-1e5f-423d-a9c0-913a4356de3a.png)
+
 Welcome to GreenHero, we use digital identity to influence green behaviors. 
 
 GreenHero is a waste management app that helps developing cities increase the rates of waste collection and recycling by gamifying the waste management journey through a tiered reward system. We want to capture the rising trend of green consumers to solve the waste management problem that will emerge in developing countries and cities. 
