@@ -12,7 +12,7 @@ That's it, if you're interested to learn more about our project, be sure to chec
 
 # Download our GreenHero Prototype App:
 
-https://drive.google.com/file/d/1coHa-B8nHTn9D0lpPK8uyyLYfII9PcVd/view?usp=sharing
+[Download GreenHero Prototype App](https://drive.google.com/file/d/1coHa-B8nHTn9D0lpPK8uyyLYfII9PcVd/view?usp=sharing)
 
 https://user-images.githubusercontent.com/8788481/140857795-660b5eac-1108-4562-9979-b9c45e47c773.mov
 
