@@ -1,5 +1,7 @@
 # GreenHero - CodeathonX (Second Runner-up)
 
+![image](https://user-images.githubusercontent.com/8788481/143595567-30a07763-250f-476d-ba94-f2e61bc15e54.png)
+
 ![Thank_1](https://user-images.githubusercontent.com/8788481/140861770-f7270958-1e5f-423d-a9c0-913a4356de3a.png)
 
 Welcome to GreenHero, we use digital identity to influence green behaviors. 
